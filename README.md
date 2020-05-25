@@ -1,2 +1,2 @@
-# p8_15_30_mSV
-sc/sNuc RNASeq of p8, p15, p30 SV 
+# Single nucleus RNA-sequencing using sample preservation methods enables characterization of rare spindle cell transcriptional profiles
+These are the scripts for the manuscripts. 
